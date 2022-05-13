@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PackUnpack/1.0.0": {
+        "runtime": {
+          "PackUnpack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PackUnpack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

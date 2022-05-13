@@ -1,0 +1,16 @@
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\bin\Debug\net5.0\PackUnpack.exe
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\bin\Debug\net5.0\PackUnpack.deps.json
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\bin\Debug\net5.0\PackUnpack.runtimeconfig.json
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\bin\Debug\net5.0\PackUnpack.runtimeconfig.dev.json
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\bin\Debug\net5.0\PackUnpack.dll
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\bin\Debug\net5.0\ref\PackUnpack.dll
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\bin\Debug\net5.0\PackUnpack.pdb
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\obj\Debug\net5.0\PackUnpack.csproj.AssemblyReference.cache
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\obj\Debug\net5.0\PackUnpack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\obj\Debug\net5.0\PackUnpack.AssemblyInfoInputs.cache
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\obj\Debug\net5.0\PackUnpack.AssemblyInfo.cs
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\obj\Debug\net5.0\PackUnpack.csproj.CoreCompileInputs.cache
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\obj\Debug\net5.0\PackUnpack.dll
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\obj\Debug\net5.0\ref\PackUnpack.dll
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\obj\Debug\net5.0\PackUnpack.pdb
+C:\Users\mingo\source\repos\PackUnpack\PackUnpack\obj\Debug\net5.0\PackUnpack.genruntimeconfig.cache
